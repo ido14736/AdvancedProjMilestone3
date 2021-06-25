@@ -11,9 +11,9 @@ The app contains a connection part - to the "FlightGear" app with IP and port, a
 4. Fly and enjoy!
 
 ### Repositories structure
-View Model folder - contains the main view model,
-Model folder - contains the main model,
-View folder - contains the view of the joystick and the main view
+- View Model folder - contains the main view model
+- Model folder - contains the main model
+- View folder - contains the view of the joystick and the main view
 
 ### Requirements(for best preformence)
 FlightGear version - 2020.3.6
