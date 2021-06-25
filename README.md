@@ -19,7 +19,7 @@ The app contains a connection part - to the "FlightGear" app with IP and port, a
 FlightGear version - 2020.3.6
 
 ### UML
-![](https://github.com/ido14736/miliestone3AndroidFG/blob/main/media/uml.PNG)
+![](Media/uml.PNG)
 
 ### Video
 [The full video with explanation about the project and the MVVM architecture](Media/video.mp4)<br />need to download before watching.
