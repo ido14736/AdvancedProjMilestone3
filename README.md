@@ -8,7 +8,8 @@ The app contains a connection part - to the "FlightGear" app with IP and port, a
 1. Clone the project repository to your computer
 2. Run the Flight Gear simulator with the following settings: --telnet=socket,in,10,127.0.0.1,5366,tcp
 3. Open the app and write your own IP and 5366 as the port and press connect.
-4. Fly and enjoy!
+* You can get your IP by writing the command "ipconfig" in your cmd and looking for the correct IP by your connection.
+5. Fly and enjoy!
 
 ### Repositories structure
 - View Model folder - contains the main view model
